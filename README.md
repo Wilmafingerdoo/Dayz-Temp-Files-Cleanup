@@ -1,4 +1,4 @@
-# Dayz Cleanup Batch
+# Dayz Temp Files Cleanup
 I found that while playing DayZ i would have a message pop up saying low disk space when before i started playing i had 8GB plus and i would get down to 0 bytes during gamplay. i was clearing out programs to try and make space and came across this foler with alot of crash log files and dump files in, totaling 101 GB.
 
 ****************************************************************************************

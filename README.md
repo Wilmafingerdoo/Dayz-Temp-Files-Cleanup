@@ -21,12 +21,12 @@ Optionally you could set this up to run on an automated task weekly or whatever 
 
 ****************************************************************************************
 ## Version 1
-# *This one will delete all the files in the DayZ temp folder and all the files in the subfolders then delete those subfolders.*
+*This one will delete all the files in the DayZ temp folder and all the files in the subfolders then delete those subfolders.*
 
 
 ****************************************************************************************
 ## Version 2
-# *This one will just delete the files in the DayZ temp folder and not touch the subfolders*
+*This one will just delete the files in the DayZ temp folder and not touch the subfolders*
 
 
 ****************************************************************************************
@@ -35,12 +35,12 @@ Optionally you could set this up to run on an automated task weekly or whatever 
 
 ****************************************************************************************
 ## Version 3
-# *This one will delete all the files in the DayZ temp folder and all the files in the subfolders then delete those subfolders. And give you a message saying finished and press any key to continue (exit).*
+*This one will delete all the files in the DayZ temp folder and all the files in the subfolders then delete those subfolders. And give you a message saying finished and press any key to continue (exit).*
 
 
 ****************************************************************************************
 ## Version 4
-# *This one will just delete the files in the DayZ temp folder and not touch the subfolders*
-# *and give you a message saying finished and press any key to continue (exit).*
+*This one will just delete the files in the DayZ temp folder and not touch the subfolders*
+*and give you a message saying finished and press any key to continue (exit).*
 
 ****************************************************************************************
